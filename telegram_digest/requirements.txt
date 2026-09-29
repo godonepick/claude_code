@@ -1,0 +1,3 @@
+telethon>=1.36
+anthropic>=0.70
+requests>=2.31
